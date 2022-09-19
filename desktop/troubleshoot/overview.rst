@@ -79,7 +79,7 @@
 
 ..    Reset to factory defaults: Choose this option to reset all options on Docker Desktop to their initial state, the same as when Docker Desktop was first installed.
 
-* **Reset to factory defaults** （初期値のデフォルトにリセット）：このオプションを選択すると、Docker Desktop の全てのオプションを初期値にリセットし、Docker Desktop が始めてインストールされたのと同じ状態にします。
+* **Reset to factory defaults** （初期値のデフォルトにリセット）：このオプションを選択すると、Docker Desktop の全てのオプションを初期値にリセットし、Docker Desktop が初めてインストールされたのと同じ状態にします。
 
 .. If you are a Mac user, you also have the option to Uninstall Docker Desktop from your system.
 
